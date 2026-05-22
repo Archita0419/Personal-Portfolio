@@ -357,7 +357,7 @@ function App() {
             </div>
           </div>
           <a
-            href="https://github.com/Archita2919?tab=repositories"
+            href="https://github.com/Archita0419?tab=repositories"
             className="btn"
             target="_blank"
             rel="noreferrer"
